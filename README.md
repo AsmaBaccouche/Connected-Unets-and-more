@@ -1,6 +1,6 @@
 # Connected-Unets-and-more
-Custom algorithms for breast lesions segmentation
-Basic UNet, AUNet, and ResUNet architecture models
+Custom algorithms for breast lesions segmentation:
+Basic UNet, AUNet, and ResUNet architecture models;
 Connected-UNets, Connected-AUNets, and Connected-ResUNets architecture models
 
 Paper published at Nature Partner Journal NPJ Breast Cancer
