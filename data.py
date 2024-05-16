@@ -100,26 +100,3 @@ def load_test_data(name):
     imgs_test = np.load('UNets files/imgs_test_'+name+'.npy')
     imgs_id = np.load('UNets files/imgs_id_test_'+name+'.npy')
     return imgs_test, imgs_id
-
-#data_path = 'D:/Files/MYDATA/Breast_Cancer-Begonya/Images/Train_Seg/'
-#data_path2 = 'D:/Files/MYDATA/Breast_Cancer-Begonya/Images/Test_Seg/'
-
-#data_path = 'D:/CBIS_augmented/Train_Seg/'
-#data_path2 = 'D:/CBIS_augmented/Test_Seg/'
-#
-##data_path = 'D:/INbreast/Train_Seg/'
-##data_path2 = 'D:/INbreast/Test_Seg/'
-#
-##data_path = 'D:/CSAW-S/CsawS/Train_Seg/'
-##data_path2 = 'D:/CSAW-S/CsawS/Test_Seg/'
-#
-#name = 'CBIS_cycleGAN'
-#
-    
-#name = 'entire_mydata'
-#
-#data_path = 'D:/Files/MYDATA/train/'
-#data_path2 = 'D:/Files/MYDATA/test/'
-#
-#create_train_data(data_path, name)
-#create_test_data(data_path2, name)
